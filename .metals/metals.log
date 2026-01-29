@@ -1,0 +1,261 @@
+2026.01.28 16:16:13 INFO  Started: Metals version 1.6.5 in folders '/Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent' for client Visual Studio Code 1.100.0.
+2026.01.28 16:16:13 INFO  Memory monitor started
+2026.01.28 16:16:13 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.28 16:16:13 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/User.java. Using fallback presentation compiler.
+2026.01.28 16:16:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/User.java. Using fallback presentation compiler.
+2026.01.28 16:16:26 WARN  no build target for: /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/User.java
+2026.01.28 16:16:26 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/User.java. Using fallback presentation compiler.
+2026.01.28 16:17:10 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:10 WARN  no build target for: /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java
+2026.01.28 16:17:10 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/User.java. Using fallback presentation compiler.
+2026.01.28 16:17:10 WARN  no build target for: /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java
+2026.01.28 16:17:10 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:10 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:17 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:17 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:17 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:17 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:17 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:18 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:18 WARN  no build target for: /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java
+2026.01.28 16:17:18 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:18 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:18 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:19 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:19 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:19 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:19 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:19 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:24 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:24 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:24 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:25 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:25 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:25 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:28 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:28 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:30 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:32 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:36 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:17:36 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:18:01 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:18:56 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:18:56 WARN  no build target for: /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java
+2026.01.28 16:18:56 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 16:18:56 WARN  no build target for: /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java
+2026.01.28 16:18:56 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:18:56 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:02 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:02 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:02 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:03 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:03 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:03 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:04 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:04 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:04 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:05 WARN  no build target for: /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java
+2026.01.28 16:19:05 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:04 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:06 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:11 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:19:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 16:20:10 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/domain/UserService.java. Using fallback presentation compiler.
+2026.01.28 17:01:54 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserController.java. Using fallback presentation compiler.
+2026.01.28 17:03:25 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:03:25 WARN  no build target for: /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java
+2026.01.28 17:03:25 WARN  no build target for: /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java
+2026.01.28 17:03:25 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:03:25 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:03:26 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:03:26 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:03:26 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:03:26 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:03:26 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:03:26 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:03:27 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 28, 2026 5:04:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.01.28 17:04:11 WARN  no build target for: /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java
+2026.01.28 17:04:11 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:11 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:11 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:11 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:11 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:13 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:13 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:14 INFO  Created report: Optional[file:///Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java]
+2026.01.28 17:04:14 INFO  empty definition using pc, found symbol in pc: org/assertj/core/api/Assertions# (full report at: "/Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/.metals/.reports/metals-full/2026-01-28/r_empty-definition_17-04-14-579.md")
+2026.01.28 17:04:14 WARN  no build target for: /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java
+2026.01.28 17:04:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:15 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:15 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:15 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:20 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:20 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:24 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:04:26 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:05:26 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:25:12 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:25:12 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 17:25:12 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 18:38:57 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 18:38:57 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 28, 2026 6:38:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 144
+janv. 28, 2026 6:38:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 145
+2026.01.28 18:38:57 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 19:55:09 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 19:55:09 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 19:55:09 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 28, 2026 7:55:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 148
+2026.01.28 20:47:48 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 20:47:48 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 28, 2026 8:47:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 150
+janv. 28, 2026 8:47:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 151
+2026.01.28 20:47:48 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 22:00:04 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 22:00:04 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 22:00:04 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 22:00:04 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 22:00:04 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 22:00:04 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 28, 2026 10:00:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 156
+janv. 28, 2026 10:00:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 157
+2026.01.28 22:56:32 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 22:56:32 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 22:56:32 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 22:56:32 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 22:56:32 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 22:56:32 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 28, 2026 10:56:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 162
+2026.01.28 23:25:50 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 23:25:50 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 23:25:50 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 23:25:53 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.28 23:25:53 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 28, 2026 11:25:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 168
+janv. 28, 2026 11:25:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 169
+2026.01.28 23:25:53 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 01:49:45 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 01:49:45 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 01:49:45 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 01:49:47 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 01:49:47 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 01:49:47 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 29, 2026 1:49:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 174
+2026.01.29 02:54:13 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 02:54:13 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 29, 2026 2:54:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 177
+janv. 29, 2026 2:54:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 178
+2026.01.29 02:54:13 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 02:54:13 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 02:54:13 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 02:54:13 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 29, 2026 2:54:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 180
+2026.01.29 03:28:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 03:28:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 03:28:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 03:28:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 03:28:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 29, 2026 3:28:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 186
+janv. 29, 2026 3:28:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 187
+2026.01.29 03:28:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 04:01:24 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 04:01:24 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 04:01:24 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 04:01:24 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 04:01:24 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 04:01:24 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 29, 2026 4:01:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 192
+2026.01.29 04:34:13 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 04:34:13 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 04:34:13 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 04:34:15 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 04:34:15 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 04:34:15 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 29, 2026 4:34:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 198
+2026.01.29 05:41:20 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 05:41:20 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 05:41:20 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 29, 2026 5:41:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 201
+2026.01.29 06:15:46 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 06:15:46 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 29, 2026 6:15:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 204
+janv. 29, 2026 6:15:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 205
+2026.01.29 06:15:46 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 07:21:16 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 07:21:16 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 07:21:16 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 29, 2026 7:21:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 207
+2026.01.29 07:21:16 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 07:21:16 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 07:21:16 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 29, 2026 7:21:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 210
+2026.01.29 08:56:10 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 08:56:10 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 29, 2026 8:56:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 213
+janv. 29, 2026 8:56:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 214
+2026.01.29 08:56:10 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 08:56:10 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 08:56:10 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 08:56:10 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 29, 2026 8:56:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 216
+2026.01.29 09:30:01 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:30:01 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+janv. 29, 2026 9:30:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 219
+janv. 29, 2026 9:30:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 220
+2026.01.29 09:30:01 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:30:01 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:30:01 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:30:01 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:10 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:10 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:11 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:11 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:11 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:11 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:12 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:14 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:15 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:24 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:25 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:25 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:27 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:27 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:30 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:31 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:31 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:55:33 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
+2026.01.29 09:57:19 INFO  no build target found for /Users/anicetajgalt/Desktop/IntegrationCloud/lab-mcp-ai-agent/src/main/java/com/example/agent/web/UserControllerIT.java. Using fallback presentation compiler.
