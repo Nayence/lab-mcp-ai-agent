@@ -11,3 +11,9 @@ anthropic:
 mcp:
   base-url: http://localhost:3333
   path: /mcp
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
