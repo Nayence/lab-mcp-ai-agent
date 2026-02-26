@@ -26,5 +26,8 @@ replay_pid*
 /.gradle
 /build
 /.idea
+.DS_Store
+.metals/
+.vscode/
 /mcp-github-http-wrapper/node_modules
 /mcp-github-http-wrapper/package-lock.json
